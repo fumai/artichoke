@@ -1,2 +1,2 @@
  artichoke
- sample
+ samples
